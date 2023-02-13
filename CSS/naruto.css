@@ -1,0 +1,11 @@
+body, html{
+    background-color: chocolate;
+}
+
+body, h1{
+    font-family: monospace;
+}
+
+body, article{
+font-size: x-large;
+}

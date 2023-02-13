@@ -1,0 +1,73 @@
+Create a portfolio website.
+Once you have completed the Pre-Work​ HTML and Pre-Work​ CSS​ tasks, create a website using text, lists, include at least two links, two different images and a form. Use as many different CSS styles to help design your website. We would like you to create a website that tells us about you. You can include any text, or images on your website. We would like you to talk about yourself, your background, hobbies and why you want to become a web developer. Make it as elaborate as possible.
+Do NOT submit a copy of the walkthrough video. Make it your own!
+
+Checklist:
+2 links: $
+2 Images:
+1 form: 
+
+
+
+https://mythgyaan.com/anime-quotes/
+
+*quotes to be used 
+
+Quotes to use:
+
+[1]"If you don’t take risks, you can’t create a future!” – Monkey D. Luffy (One Piece) Link description "Words from a pirate..."
+
+
+“If you don’t like your destiny, don’t accept it.” – Naruto Uzumaki (Naruto) Link description: 
+
+[2]“Hard work is worthless for those that don’t believe in themselves.”
+– Naruto Uzumaki (Naruto) Link description: "Words from a Believer"
+
+[3]“I’ll leave tomorrow’s problems to tomorrow’s me.” – Saitama (One-Punch Man) Link description: "Words from a Stongest Man.......ever"
+
+[4]“Reject common sense to make the impossible possible.”
+– Simon (Tengen Toppa Gurren Lagann)
+Link description: "Words from a Space Explorer"
+
+
+**Make separate links to quotes making diffferent simple/basic websites**
+
+
+FORM(s) Comments:
+
+<<form action="http://127.0.0.1:5500/Looking%20Glass.html/comments.php">
+<p>If you have any comments, let me know</p>
+ <textarea name="comments" cols="20" rows="4">Comments...</textarea>
+</form>
+
+
+LIST:(last)
+<p> What I am
+<ul>
+	<li>Father</li>
+	<li>Son</li>
+	<li>Sneakerhead</li>
+	<li>Best Friend</li>
+	<li>Filipino</li>
+	<li>Student</li>
+	<li>Boyfriend</li>
+	<li>Brother</li>
+	<li>Just a man</li>
+	<li>Human</li>
+</ul>
+
+insert [3]link to gif after list
+
+Photo1 Twins/family
+<p>Explaination of photo, meaning, life changing in fatherhood, career after this also life changing. get to be around family more</p>
+
+
+
+ 
+
+
+
+
+
+
+
